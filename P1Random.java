@@ -1,7 +1,7 @@
 public class P1Random
 {
     private long next;
-    //update
+    //update again updated
     public P1Random()
     {
         next = 0;
